@@ -14,10 +14,10 @@ h2 {
 }
 
 .completed {
-  font-family: fantasy;
+  font-family: serif;
 }
 
-#tasks .completed {
+#tasks.completed {
   background: #ccc;
   text-decoration: underline;
 }
